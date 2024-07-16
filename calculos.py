@@ -32,3 +32,24 @@ print('Hola soy \'Brayam\'')
 
 print("la ruta de archivo es:\n C:\\Users\\Usuario\\Desktop\\archivo.txt")
 
+aa = 110
+bb = 15
+
+print("la suma: ", aa+bb)
+print("la resta: ", aa-bb)
+print("la division: ", aa/bb)
+print("la division de parte entera: ", aa//bb)
+print("la multiplicacion: ", aa*bb)
+print("la potenciacion: ", aa**bb)
+print("el modulo: ", aa%bb)
+
+aa = aa + 20
+print(aa)
+
+operacion1 = 2+3*4
+operacion2 = (2+3)*4
+print(operacion1)
+print(operacion2)
+
+operacion3 = (2+3) * (4**2)/8-1
+print(operacion3)
